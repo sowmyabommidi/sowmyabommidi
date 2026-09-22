@@ -42,4 +42,27 @@
 - **Employee Management System**: React.js frontend, Spring Boot backend, MySQL database for managing employee records and workflows.
 - **Job Portal**: React.js frontend, Spring Boot backend, MySQL database for employers to post jobs and candidates to apply.
 - **Travel Booking System**: User authentication, booking workflows and real-time availability handling using REST APIs.
-- **E-Commerce Application**:
+- **E-Commerce Application**: Product catalog management, shopping cart functionality and order processing modules.
+
+<!--
+### 📸 Project Screenshots:
+
+| Employee Management | Job Portal | Travel Booking | E-Commerce |
+|:---:|:---:|:---:|:---:|
+| ![Employee Management](images/employee-management.png) | ![Job Portal](images/job-portal.png) | ![Travel Booking](images/travel-booking.png) | ![E-Commerce](images/ecommerce.png) |
+-->
+
+# 🎓 Certifications:
+
+- AWS Certification on Cloud Computing
+- STTP Certificate on Java Full Stack with React JS & AI
+
+# 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmyabommidi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyabommidi&layout=compact&theme=radical)
+
+# 🏆 GitHub Trophies:
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sowmyabommidi&theme=radical&row=1&column=6)
