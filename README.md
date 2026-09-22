@@ -4,6 +4,9 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=550&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL)
 
+![Status](https://img.shields.io/badge/STATUS-Open_to_Work-success?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=sowmyabommidi&color=6366F1&style=for-the-badge)
+
 </div>
 
 # 💫 About Me:
@@ -62,6 +65,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmyabommidi&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyabommidi&layout=compact&theme=radical)
+
+# 🔥 GitHub Streak:
+
+![Streak](https://streak-stats.demolab.com?user=sowmyabommidi&theme=radical)
 
 # 🏆 GitHub Trophies:
 
